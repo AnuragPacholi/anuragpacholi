@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **apacholi@mail.uni-paderborn.de**
 
-- ⚡ **Fueled by coffee and a love for a good guitar riff. I enjoy building cool things with code as much as I enjoy exploring new worlds in games.**
+- ⚡ **Fueled by coffee and a love for a good guitar riff, I enjoy coding as much as I enjoy exploring new worlds in games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
