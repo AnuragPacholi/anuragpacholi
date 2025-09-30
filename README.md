@@ -21,10 +21,10 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpacholi&show_icons=true&locale=en&layout=compact&langs_count=4&size_weight=0.5&count_weight=0.5&hide=c,nasl,tcl,roff,perl" alt="anuragpacholi"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpacholi&show_icons=true&locale=en&layout=compact&langs_count=4&size_weight=0.5&count_weight=0.5&hide=c,nasl,tcl,roff,perl&theme=algolia" alt="anuragpacholi"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragpacholi&show_icons=true&locale=en&include_all_commits=true&hide=prs,issues,contribs" alt="anuragpacholi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragpacholi&show_icons=true&locale=en&include_all_commits=true&hide=prs,issues,contribs&theme=algolia" alt="anuragpacholi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpacholi&showicons=true" alt="anuragpacholi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpacholi&showicons=true&theme=algolia" alt="anuragpacholi" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deepeshgotiya&label=Profile%20views&color=0e75b6&style=flat" alt="anuragpacholi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anuragpacholi&label=Profile%20views&color=0e75b6&style=flat" alt="anuragpacholi" /> </p>
