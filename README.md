@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">Student at the University of Paderborn, NRW, Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragpacholi&theme=angolia" alt="anuragpacholi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragpacholi&theme=algolia" alt="anuragpacholi" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS and RSE**
 
