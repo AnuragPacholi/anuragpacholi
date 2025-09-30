@@ -21,7 +21,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpacholi&show_icons=true&locale=en&layout=compact&langs_count=5&size_weight=0.5&count_weight=0.5&hide=nasl,tcl,roff,perl,c" alt="anuragpacholi"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpacholi&show_icons=true&locale=en&layout=compact&langs_count=4&size_weight=0.5&count_weight=0.5&hide=c,nasl,tcl,roff,perl" alt="anuragpacholi"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragpacholi&show_icons=true&locale=en&include_all_commits=true&hide=prs,issues,contribs" alt="anuragpacholi" /></p>
 
